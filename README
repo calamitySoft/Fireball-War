@@ -1,0 +1,13 @@
+Fireball War
+By Sam Von Ehren
+-------------------------------------------------------------------
+
+Uses the Crafty Game Engine(craftyjs.com) and the SpriteText module.
+
+--------------------------------------------------------------------
+RULES:
+The controls are simple, player 1 uses "A" to shoot fireballs and "W"
+to jump. Player 2 uses "K" to shoot fireballs and "I" to jump. When a
+player gets hit with a fireball, they are continually bounced back. Once one
+player is knocked off the screen, they lose.
+
